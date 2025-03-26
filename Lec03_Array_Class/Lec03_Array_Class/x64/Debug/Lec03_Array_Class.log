@@ -1,0 +1,3 @@
+﻿  Array.cpp
+C:\Users\DonnaJohnson\Documents\data-structure-lab-2025\Lec03_Array_Class\Lec03_Array_Class\Array.cpp(8,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lec03_Array_Class.vcxproj -> C:\Users\DonnaJohnson\Documents\data-structure-lab-2025\Lec03_Array_Class\x64\Debug\Lec03_Array_Class.exe
